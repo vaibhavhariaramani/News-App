@@ -24,7 +24,7 @@ Using News API  =   https://api.first.org/data/v1/news
 
 # Resources 
 
-To learn more about these Resources you can Refer to some of these articles written by Me:-
+To learn more about these Resources you can Refer to some of these articles over here written by Me:-
 
 https://sites.google.com/view/geeky-traveller/computer-vision/facial-landmarks-detection
 
